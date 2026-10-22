@@ -13,7 +13,7 @@ Requirements: macOS 15 Sequoia or later, Apple Silicon (Viggo also runs on Intel
 | **Razzy** | Opens and extracts RAR, ZIP, 7z, TAR, gz, bz2 and xz archives; double-click unpacks next to the archive. |
 | **Viggo** | Plays MKV and WebM in QuickTime Player, Finder and Quick Look (enable once in System Settings → Login Items & Extensions → Media Extensions). |
 
-Website: https://nuka-app-site.web.app
+Website: https://nukatools.app
 
 ## Notes
 

@@ -8,16 +8,14 @@ Requirements: macOS 15 Sequoia or later, Apple Silicon (Viggo also runs on Intel
 
 | App | What it does |
 |---|---|
-| **Theo** | Player for YouTube Music: keeps playing in the menu bar when the window is closed, an island under the notch with the song and controls, media keys and Control Center. |
 | **Polly** | Fixes words typed in the wrong keyboard layout as you type. Needs Accessibility and Input Monitoring. |
 | **Razzy** | Opens and extracts RAR, ZIP, 7z, TAR, gz, bz2 and xz archives; double-click unpacks next to the archive. |
-| **Viggo** | Plays MKV and WebM in QuickTime Player, Finder and Quick Look (enable once in System Settings → Login Items & Extensions → Media Extensions). |
+| **Viggo** | Lets QuickTime Player, Finder and Quick Look open the MKV and WebM files already on your Mac (no streaming, no online content) (enable once in System Settings → Login Items & Extensions → Media Extensions). |
 
 Website: https://nukatools.app
 
 ## Notes
 
-- Theo is not affiliated with, endorsed or sponsored by Google or YouTube. It shows music.youtube.com in its own window; you sign in with your own Google account.
 - Polly's word lists are derived from the Leipzig Corpora Collection (Universität Leipzig), CC BY 4.0, with sentences from Mozilla Common Voice (CC0). Details are in the app (Settings → Language data) and in `Polly.app/Contents/Resources/NOTICE.txt`.
 - Razzy uses the UnRAR source by Alexander Roshal (RARLAB), macOS's libarchive and the LZMA SDK (public domain); their licences ship inside the app.
 
